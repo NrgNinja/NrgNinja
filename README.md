@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NrgNinja
 - 👀 I’m interested in computers!
 - 🌱 I’m currently learning about computers!
-- 💞️ I’m looking to collaborate on copmuter projects!
+- 💞️ I’m looking to collaborate on computer projects!
 - 📫 How to reach me email me on my computer! diazrenato2001@outlook.com
 
 <!---
