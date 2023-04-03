@@ -2,7 +2,6 @@
 NrgNinja/NrgNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="github_cover.png" />
 
 <h1>Hello there! My name is Renato Diaz!</h1>
 
