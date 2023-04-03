@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/renato-diaz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/NrgNinja"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/RenatoDiaz"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:renatod621@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/IjazMomal"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 
 <h3> What I do? 👩‍💻 </h3>
  
