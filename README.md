@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/renato-diaz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/NrgNinja"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/RenatoDiaz"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="https://www.facebook.com/renato.diaz.7731"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
 
 <h3> What I do? 👩‍💻 </h3>
  
@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
  * I am also working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
 
 <details>
- <summary> <b>Computer Vision</b> 👁️ </summary>
+ <summary> <b>Personal Projects</b> 🔥 </summary>
 <ul>
  
   <li><a href="https://github.com/Momilijaz96/MMT_for_NCRC">Multimodal Transformer for nurse Activity Recognition (Published in CVPM2022 - CVPRW)</a></li>
+  <li><a href="https://nrgninja.itch.io/the-lost-magic-a-medieval-fantasy-adventure">The Lost Magic: A Medieval Fantasy Adventure</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
